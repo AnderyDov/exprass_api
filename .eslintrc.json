@@ -4,5 +4,8 @@
     "parserOptions": {
         "ecmaVersion": "latest",
         "sourceType": "module"
+    },
+    "rules": {
+        "require-yield": "off"
     }
 }
